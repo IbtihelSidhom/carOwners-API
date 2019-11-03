@@ -1,4 +1,4 @@
-# :red_car: Car Owners API  :blue_car:  
+# Car Owners API  
 
 The goal is to create a REST API that allows the requester to access information on car owners models data.
 
